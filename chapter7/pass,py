@@ -1,0 +1,8 @@
+for i in range(100):
+    pass     # pass is a null statement in python(work later with the loop)
+
+
+i = 0
+while(i<45):
+    print(i)
+    i += 1
